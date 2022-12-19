@@ -1,0 +1,16 @@
+# example:
+model:
+  type: "neural_network"
+  hidden_units: [128, 64, 32]
+  learning_rate: 0.001
+  optimizer: "Adam"
+  loss_function: "binary_crossentropy"
+  metrics: ["accuracy"]
+
+training:
+  epochs: 100
+  batch_size: 128
+  validation_split: 0.2
+
+inference:
+  threshold: 0.5
