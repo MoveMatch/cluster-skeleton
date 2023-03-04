@@ -1,0 +1,1025 @@
+here
+Namespace(config_path='./config/train_config.yml', s3_bucket='movematch', prefix='CatsVsDogsDataset')
+CatsVsDogsDataset/Cat/10895.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1017.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10637.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10198.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10458.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10455.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10489.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10519.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10387.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1020.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10210.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10629.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1011.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10078.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10439.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10561.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10403.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10352.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10052.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10880.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10563.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10838.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10677.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10132.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1073.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10357.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10643.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10000.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10601.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10147.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10493.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10790.jpg
+RESIZED:  torch.Size([3, 50, 50])
+tensor([[[[0.0941, 0.1059, 0.1529,  ..., 0.2941, 0.2706, 0.2471],
+          [0.0941, 0.1137, 0.1137,  ..., 0.6078, 0.5451, 0.4941],
+          [0.1176, 0.1255, 0.1843,  ..., 0.5922, 0.6000, 0.6039],
+          ...,
+          [0.6314, 0.5333, 0.2980,  ..., 0.7098, 0.6980, 0.6784],
+          [0.6196, 0.6157, 0.4157,  ..., 0.7098, 0.5725, 0.4863],
+          [0.5725, 0.6078, 0.5882,  ..., 0.7176, 0.5412, 0.3961]],
+
+         [[0.1137, 0.0902, 0.0824,  ..., 0.2824, 0.2627, 0.2353],
+          [0.0706, 0.0980, 0.0784,  ..., 0.5922, 0.5412, 0.4863],
+          [0.1294, 0.1412, 0.1725,  ..., 0.5490, 0.5647, 0.5725],
+          ...,
+          [0.5922, 0.4863, 0.3725,  ..., 0.6824, 0.6431, 0.6392],
+          [0.5569, 0.5412, 0.3882,  ..., 0.6667, 0.5647, 0.5137],
+          [0.5176, 0.5333, 0.5294,  ..., 0.6745, 0.5373, 0.4157]],
+
+         [[0.1137, 0.0863, 0.0588,  ..., 0.2667, 0.2392, 0.2118],
+          [0.0431, 0.0863, 0.0471,  ..., 0.5765, 0.5216, 0.4706],
+          [0.1294, 0.1294, 0.1216,  ..., 0.5216, 0.5333, 0.5373],
+          ...,
+          [0.6000, 0.4784, 0.3294,  ..., 0.6784, 0.6471, 0.6392],
+          [0.5686, 0.5412, 0.3725,  ..., 0.6667, 0.5961, 0.5725],
+          [0.5216, 0.5333, 0.5216,  ..., 0.6706, 0.5725, 0.4824]]],
+
+
+        [[[0.3922, 0.3882, 0.3608,  ..., 0.3490, 0.3490, 0.3373],
+          [0.3843, 0.3804, 0.3529,  ..., 0.3490, 0.3490, 0.3412],
+          [0.3765, 0.3725, 0.3255,  ..., 0.3529, 0.3529, 0.3490],
+          ...,
+          [0.1725, 0.2078, 0.2863,  ..., 0.0039, 0.0039, 0.0039],
+          [0.1451, 0.1922, 0.2667,  ..., 0.0039, 0.0039, 0.0039],
+          [0.1294, 0.1725, 0.2157,  ..., 0.0039, 0.0039, 0.0039]],
+
+         [[0.4078, 0.4039, 0.3765,  ..., 0.3725, 0.3725, 0.3608],
+          [0.4039, 0.4000, 0.3765,  ..., 0.3725, 0.3725, 0.3647],
+          [0.4000, 0.4000, 0.3608,  ..., 0.3765, 0.3765, 0.3725],
+          ...,
+          [0.3569, 0.3725, 0.4275,  ..., 0.0039, 0.0039, 0.0039],
+          [0.3294, 0.3569, 0.4078,  ..., 0.0039, 0.0039, 0.0039],
+          [0.3137, 0.3373, 0.3608,  ..., 0.0039, 0.0039, 0.0039]],
+
+         [[0.3804, 0.3804, 0.3569,  ..., 0.3529, 0.3529, 0.3412],
+          [0.4000, 0.3882, 0.3529,  ..., 0.3529, 0.3529, 0.3451],
+          [0.4196, 0.4000, 0.3373,  ..., 0.3569, 0.3569, 0.3529],
+          ...,
+          [0.4471, 0.4549, 0.5020,  ..., 0.0039, 0.0039, 0.0039],
+          [0.4196, 0.4392, 0.4824,  ..., 0.0039, 0.0039, 0.0039],
+          [0.4039, 0.4235, 0.4392,  ..., 0.0039, 0.0039, 0.0039]]],
+
+
+        [[[0.2706, 0.2941, 0.3176,  ..., 0.1725, 0.1490, 0.1176],
+          [0.2627, 0.3176, 0.2863,  ..., 0.1529, 0.1333, 0.0980],
+          [0.2471, 0.2784, 0.2392,  ..., 0.1608, 0.1294, 0.1059],
+          ...,
+          [0.1647, 0.1725, 0.1765,  ..., 0.1333, 0.1294, 0.1176],
+          [0.1569, 0.1647, 0.1725,  ..., 0.1255, 0.1176, 0.1098],
+          [0.1529, 0.1490, 0.1608,  ..., 0.1255, 0.1216, 0.1137]],
+
+         [[0.3059, 0.3451, 0.3686,  ..., 0.2745, 0.2078, 0.1569],
+          [0.2980, 0.3686, 0.3373,  ..., 0.2314, 0.2039, 0.1412],
+          [0.2824, 0.3176, 0.2902,  ..., 0.2392, 0.1765, 0.1490],
+          ...,
+          [0.3412, 0.3608, 0.3725,  ..., 0.3529, 0.3373, 0.3216],
+          [0.3333, 0.3451, 0.3569,  ..., 0.3412, 0.3216, 0.3176],
+          [0.3255, 0.3373, 0.3451,  ..., 0.3333, 0.3216, 0.3137]],
+
+         [[0.3961, 0.4235, 0.4510,  ..., 0.4275, 0.3529, 0.2667],
+          [0.3961, 0.4314, 0.4078,  ..., 0.3686, 0.3255, 0.2353],
+          [0.3882, 0.4039, 0.3608,  ..., 0.3725, 0.2980, 0.2588],
+          ...,
+          [0.5804, 0.5843, 0.5922,  ..., 0.6078, 0.5922, 0.5843],
+          [0.5725, 0.5686, 0.5804,  ..., 0.5961, 0.5804, 0.5647],
+          [0.5647, 0.5569, 0.5725,  ..., 0.5843, 0.5725, 0.5608]]],
+
+
+        ...,
+
+
+        [[[0.4471, 0.4510, 0.4392,  ..., 0.2275, 0.2431, 0.2392],
+          [0.4510, 0.4431, 0.4510,  ..., 0.2314, 0.2510, 0.3137],
+          [0.4549, 0.4392, 0.4706,  ..., 0.2471, 0.3098, 0.4314],
+          ...,
+          [0.3020, 0.2980, 0.3137,  ..., 0.2863, 0.2745, 0.2941],
+          [0.2980, 0.3059, 0.3059,  ..., 0.2863, 0.2784, 0.2824],
+          [0.2863, 0.2863, 0.2902,  ..., 0.2627, 0.2745, 0.2549]],
+
+         [[0.4353, 0.4392, 0.4275,  ..., 0.2392, 0.2549, 0.2706],
+          [0.4392, 0.4314, 0.4392,  ..., 0.2471, 0.2902, 0.3765],
+          [0.4431, 0.4275, 0.4549,  ..., 0.2784, 0.3804, 0.4980],
+          ...,
+          [0.3137, 0.3098, 0.3255,  ..., 0.2980, 0.2824, 0.3059],
+          [0.3098, 0.3176, 0.3176,  ..., 0.2941, 0.2863, 0.2902],
+          [0.2902, 0.2902, 0.3020,  ..., 0.2706, 0.2824, 0.2588]],
+
+         [[0.4039, 0.4078, 0.4078,  ..., 0.2549, 0.2706, 0.2824],
+          [0.4078, 0.4000, 0.4196,  ..., 0.2588, 0.2980, 0.3765],
+          [0.4118, 0.3961, 0.4196,  ..., 0.2863, 0.3686, 0.4745],
+          ...,
+          [0.3294, 0.3255, 0.3451,  ..., 0.3216, 0.3098, 0.3216],
+          [0.3333, 0.3373, 0.3373,  ..., 0.3294, 0.3255, 0.3255],
+          [0.3255, 0.3216, 0.3216,  ..., 0.3020, 0.3176, 0.3020]]],
+
+
+        [[[0.6863, 0.6902, 0.6902,  ..., 0.7490, 0.7294, 0.7412],
+          [0.6863, 0.6902, 0.6902,  ..., 0.5647, 0.7216, 0.7412],
+          [0.6863, 0.6863, 0.6902,  ..., 0.3608, 0.6588, 0.7373],
+          ...,
+          [0.1059, 0.1020, 0.1059,  ..., 0.3529, 0.3569, 0.3608],
+          [0.1059, 0.1059, 0.1059,  ..., 0.3647, 0.3608, 0.3725],
+          [0.1137, 0.1098, 0.1098,  ..., 0.3686, 0.3647, 0.3725]],
+
+         [[0.7098, 0.7137, 0.7098,  ..., 0.7882, 0.7608, 0.7725],
+          [0.7098, 0.7137, 0.7137,  ..., 0.6039, 0.7529, 0.7686],
+          [0.7098, 0.7137, 0.7176,  ..., 0.4039, 0.6941, 0.7725],
+          ...,
+          [0.1569, 0.1569, 0.1608,  ..., 0.4157, 0.4118, 0.4157],
+          [0.1608, 0.1608, 0.1608,  ..., 0.4275, 0.4275, 0.4431],
+          [0.1647, 0.1647, 0.1647,  ..., 0.4314, 0.4275, 0.4431]],
+
+         [[0.6902, 0.6980, 0.7020,  ..., 0.7804, 0.7569, 0.7686],
+          [0.6902, 0.6980, 0.7020,  ..., 0.6000, 0.7529, 0.7647],
+          [0.6902, 0.6902, 0.6941,  ..., 0.4118, 0.6941, 0.7725],
+          ...,
+          [0.0549, 0.0510, 0.0549,  ..., 0.4431, 0.4353, 0.4392],
+          [0.0549, 0.0510, 0.0510,  ..., 0.4392, 0.4431, 0.4706],
+          [0.0510, 0.0510, 0.0510,  ..., 0.4471, 0.4510, 0.4706]]],
+
+
+        [[[0.1059, 0.0588, 0.0196,  ..., 0.0314, 0.0275, 0.0275],
+          [0.0980, 0.0549, 0.0235,  ..., 0.0314, 0.0314, 0.0314],
+          [0.1020, 0.0706, 0.0235,  ..., 0.0353, 0.0392, 0.0353],
+          ...,
+          [0.0118, 0.0039, 0.0314,  ..., 0.2157, 0.2471, 0.2078],
+          [0.0118, 0.0078, 0.0314,  ..., 0.2118, 0.2235, 0.1804],
+          [0.0078, 0.0118, 0.0235,  ..., 0.0196, 0.0235, 0.0275]],
+
+         [[0.2196, 0.1451, 0.0549,  ..., 0.0667, 0.0627, 0.0588],
+          [0.2078, 0.1412, 0.0588,  ..., 0.0667, 0.0667, 0.0588],
+          [0.2196, 0.1608, 0.0588,  ..., 0.0706, 0.0667, 0.0588],
+          ...,
+          [0.0275, 0.0196, 0.0431,  ..., 0.2549, 0.3098, 0.2392],
+          [0.0275, 0.0235, 0.0431,  ..., 0.2510, 0.2667, 0.2353],
+          [0.0196, 0.0275, 0.0392,  ..., 0.0275, 0.0314, 0.0471]],
+
+         [[0.2157, 0.1333, 0.0431,  ..., 0.0157, 0.0118, 0.0118],
+          [0.2196, 0.1373, 0.0471,  ..., 0.0157, 0.0157, 0.0157],
+          [0.2314, 0.1529, 0.0510,  ..., 0.0196, 0.0157, 0.0157],
+          ...,
+          [0.0196, 0.0078, 0.0235,  ..., 0.2078, 0.2745, 0.1804],
+          [0.0196, 0.0118, 0.0235,  ..., 0.2078, 0.2275, 0.2000],
+          [0.0118, 0.0157, 0.0196,  ..., 0.0157, 0.0196, 0.0353]]]])
+CatsVsDogsDataset/Cat/10445.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10862.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10270.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1046.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10263.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10801.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10167.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10256.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10300.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10166.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10027.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10698.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10053.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10678.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10057.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10825.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10185.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10069.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10137.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10749.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10597.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10843.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10329.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10842.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10096.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10726.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1012.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10454.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10740.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10628.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10184.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10175.jpg
+RESIZED:  torch.Size([3, 50, 50])
+tensor([[[0.6667, 0.6706, 0.6588,  ..., 0.4902, 0.4902, 0.4980],
+         [0.7098, 0.7059, 0.6941,  ..., 0.5059, 0.5098, 0.5216],
+         [0.7373, 0.7373, 0.7255,  ..., 0.5294, 0.5373, 0.5451],
+         ...,
+         [0.4667, 0.4745, 0.4902,  ..., 0.9882, 0.9490, 0.8314],
+         [0.4353, 0.4471, 0.4941,  ..., 0.9843, 0.9333, 0.8157],
+         [0.4039, 0.4275, 0.5020,  ..., 0.9765, 0.9216, 0.7725]],
+
+        [[0.6392, 0.6431, 0.6275,  ..., 0.4706, 0.4706, 0.4784],
+         [0.6784, 0.6745, 0.6588,  ..., 0.4863, 0.4902, 0.5020],
+         [0.7020, 0.7020, 0.6941,  ..., 0.5098, 0.5176, 0.5255],
+         ...,
+         [0.4667, 0.4745, 0.4824,  ..., 0.9647, 0.9216, 0.7961],
+         [0.4353, 0.4471, 0.4863,  ..., 0.9569, 0.9059, 0.7765],
+         [0.4039, 0.4275, 0.4980,  ..., 0.9529, 0.8941, 0.7333]],
+
+        [[0.6078, 0.6118, 0.6039,  ..., 0.4667, 0.4667, 0.4745],
+         [0.6549, 0.6510, 0.6431,  ..., 0.4824, 0.4863, 0.4980],
+         [0.6902, 0.6863, 0.6784,  ..., 0.5059, 0.5137, 0.5216],
+         ...,
+         [0.4902, 0.4980, 0.5059,  ..., 0.9647, 0.9216, 0.7961],
+         [0.4588, 0.4706, 0.5098,  ..., 0.9569, 0.9059, 0.7765],
+         [0.4275, 0.4510, 0.5216,  ..., 0.9490, 0.8902, 0.7333]]])
+CatsVsDogsDataset/Cat/10410.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1040.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10419.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10421.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10358.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10642.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10689.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10189.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1043.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10538.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10680.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10522.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10111.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10554.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10271.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10127.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10716.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10286.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10391.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10684.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10534.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10022.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1001.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10308.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10527.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10850.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10591.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10841.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10883.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10625.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10606.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10394.jpg
+RESIZED:  torch.Size([3, 50, 50])
+tensor([[[0.5294, 0.5255, 0.4941,  ..., 0.2784, 0.1725, 0.1059],
+         [0.5020, 0.4784, 0.4627,  ..., 0.2667, 0.1569, 0.0392],
+         [0.4784, 0.4824, 0.4941,  ..., 0.2510, 0.1529, 0.0353],
+         ...,
+         [0.6627, 0.6471, 0.6431,  ..., 0.2627, 0.2549, 0.2549],
+         [0.6667, 0.6549, 0.6471,  ..., 0.1765, 0.1569, 0.1804],
+         [0.6745, 0.6627, 0.6627,  ..., 0.1216, 0.1216, 0.1098]],
+
+        [[0.5569, 0.5529, 0.5176,  ..., 0.2667, 0.1882, 0.1176],
+         [0.5294, 0.5059, 0.4863,  ..., 0.2549, 0.1725, 0.0510],
+         [0.5059, 0.5059, 0.5137,  ..., 0.2471, 0.1647, 0.0353],
+         ...,
+         [0.6431, 0.6275, 0.6235,  ..., 0.2784, 0.2745, 0.2824],
+         [0.6471, 0.6353, 0.6275,  ..., 0.1490, 0.1255, 0.1569],
+         [0.6549, 0.6431, 0.6431,  ..., 0.0706, 0.0706, 0.0627]],
+
+        [[0.5451, 0.5412, 0.5137,  ..., 0.2667, 0.2118, 0.1255],
+         [0.5176, 0.4941, 0.4824,  ..., 0.2510, 0.1922, 0.0588],
+         [0.4980, 0.5020, 0.5098,  ..., 0.2471, 0.1882, 0.0471],
+         ...,
+         [0.6314, 0.6196, 0.6196,  ..., 0.3412, 0.3294, 0.3373],
+         [0.6431, 0.6314, 0.6235,  ..., 0.1647, 0.1333, 0.1765],
+         [0.6510, 0.6392, 0.6392,  ..., 0.0471, 0.0392, 0.0471]]])
+CatsVsDogsDataset/Cat/10434.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10168.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10104.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10155.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10494.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10034.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10711.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/107.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10238.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10566.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10733.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10777.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1073.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10207.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10160.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10769.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10486.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10559.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10164.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1057.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10319.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1011.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10540.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10357.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10131.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10661.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10497.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10336.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10220.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10616.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10570.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10474.jpg
+RESIZED:  torch.Size([3, 50, 50])
+tensor([[[0.9529, 0.9569, 0.9647,  ..., 0.7451, 0.7451, 0.7294],
+         [0.9529, 0.9608, 0.9647,  ..., 0.7451, 0.7451, 0.7333],
+         [0.9569, 0.9647, 0.9686,  ..., 0.7451, 0.7412, 0.7333],
+         ...,
+         [0.4824, 0.4392, 0.5569,  ..., 0.6353, 0.4902, 0.3255],
+         [0.5608, 0.5882, 0.6392,  ..., 0.6196, 0.5490, 0.3647],
+         [0.6275, 0.6510, 0.6588,  ..., 0.5922, 0.5765, 0.4196]],
+
+        [[0.9529, 0.9569, 0.9647,  ..., 0.7529, 0.7412, 0.7255],
+         [0.9529, 0.9608, 0.9647,  ..., 0.7529, 0.7412, 0.7294],
+         [0.9569, 0.9647, 0.9647,  ..., 0.7529, 0.7373, 0.7294],
+         ...,
+         [0.5137, 0.4902, 0.5843,  ..., 0.7098, 0.5451, 0.4078],
+         [0.5843, 0.6196, 0.6667,  ..., 0.6980, 0.6039, 0.4078],
+         [0.6510, 0.6745, 0.6824,  ..., 0.6706, 0.6392, 0.4510]],
+
+        [[0.9529, 0.9569, 0.9647,  ..., 0.7569, 0.7490, 0.7333],
+         [0.9529, 0.9608, 0.9647,  ..., 0.7569, 0.7490, 0.7373],
+         [0.9569, 0.9647, 0.9686,  ..., 0.7569, 0.7451, 0.7373],
+         ...,
+         [0.5216, 0.4549, 0.6039,  ..., 0.7647, 0.5882, 0.4863],
+         [0.6118, 0.6275, 0.6824,  ..., 0.7608, 0.6549, 0.4471],
+         [0.6784, 0.6980, 0.7020,  ..., 0.7333, 0.6941, 0.4667]]])
+CatsVsDogsDataset/Cat/10838.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10528.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10637.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10668.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10759.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10710.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10510.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10587.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10087.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10874.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1019.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10422.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10338.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10512.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10154.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10519.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10036.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10530.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10060.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10525.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10202.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10341.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/108.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10502.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10574.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1031.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10791.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10821.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10158.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10378.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10218.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10738.jpg
+RESIZED:  torch.Size([3, 50, 50])
+tensor([[[0.1843, 0.1843, 0.1765,  ..., 0.0431, 0.0118, 0.0039],
+         [0.1765, 0.1804, 0.1804,  ..., 0.0353, 0.0078, 0.0078],
+         [0.1765, 0.1765, 0.1804,  ..., 0.0314, 0.0039, 0.0196],
+         ...,
+         [0.2314, 0.2549, 0.2471,  ..., 0.1882, 0.1725, 0.1529],
+         [0.1647, 0.1882, 0.1765,  ..., 0.1725, 0.1608, 0.1490],
+         [0.0980, 0.1373, 0.2392,  ..., 0.1686, 0.1529, 0.1490]],
+
+        [[0.2157, 0.2157, 0.2157,  ..., 0.0667, 0.0275, 0.0118],
+         [0.2118, 0.2118, 0.2157,  ..., 0.0588, 0.0235, 0.0235],
+         [0.2118, 0.2118, 0.2157,  ..., 0.0549, 0.0235, 0.0392],
+         ...,
+         [0.2000, 0.2235, 0.2157,  ..., 0.1647, 0.1529, 0.1412],
+         [0.1451, 0.1647, 0.1569,  ..., 0.1608, 0.1490, 0.1373],
+         [0.0902, 0.1216, 0.2000,  ..., 0.1569, 0.1451, 0.1373]],
+
+        [[0.2235, 0.2235, 0.2235,  ..., 0.0549, 0.0235, 0.0118],
+         [0.2196, 0.2196, 0.2235,  ..., 0.0510, 0.0196, 0.0196],
+         [0.2157, 0.2196, 0.2235,  ..., 0.0431, 0.0157, 0.0314],
+         ...,
+         [0.1529, 0.1686, 0.1608,  ..., 0.1098, 0.0980, 0.0902],
+         [0.1020, 0.1216, 0.1137,  ..., 0.1020, 0.0941, 0.0824],
+         [0.0510, 0.0745, 0.1451,  ..., 0.0941, 0.0863, 0.0863]]])
+CatsVsDogsDataset/Cat/10707.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1033.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10372.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10023.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10563.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10708.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10081.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10305.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10020.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10610.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10221.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10697.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10781.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10635.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10431.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10804.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10539.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10664.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10532.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10858.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10577.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10827.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10194.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10639.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10640.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10019.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10770.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10839.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10226.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10837.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10098.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10856.jpg
+RESIZED:  torch.Size([3, 50, 50])
+tensor([[[0.1490, 0.1529, 0.1569,  ..., 0.3255, 0.3176, 0.3137],
+         [0.1451, 0.1490, 0.1490,  ..., 0.3216, 0.3176, 0.3137],
+         [0.1412, 0.1451, 0.1451,  ..., 0.3176, 0.3098, 0.3020],
+         ...,
+         [0.9412, 0.9608, 0.9333,  ..., 0.4863, 0.4745, 0.4824],
+         [0.9608, 0.9569, 0.9216,  ..., 0.5686, 0.5373, 0.5020],
+         [0.9647, 0.9412, 0.9333,  ..., 0.4627, 0.5843, 0.6118]],
+
+        [[0.1686, 0.1725, 0.1765,  ..., 0.3412, 0.3255, 0.3176],
+         [0.1647, 0.1686, 0.1686,  ..., 0.3373, 0.3255, 0.3176],
+         [0.1608, 0.1647, 0.1647,  ..., 0.3294, 0.3216, 0.3137],
+         ...,
+         [0.7059, 0.7098, 0.6941,  ..., 0.5255, 0.5098, 0.5137],
+         [0.7059, 0.7059, 0.7137,  ..., 0.5451, 0.5294, 0.5255],
+         [0.7059, 0.7098, 0.6824,  ..., 0.6157, 0.5922, 0.5529]],
+
+        [[0.1647, 0.1686, 0.1725,  ..., 0.3451, 0.3294, 0.3255],
+         [0.1608, 0.1647, 0.1647,  ..., 0.3412, 0.3294, 0.3216],
+         [0.1569, 0.1608, 0.1608,  ..., 0.3412, 0.3294, 0.3176],
+         ...,
+         [0.5294, 0.5059, 0.5216,  ..., 0.5529, 0.5294, 0.5373],
+         [0.4980, 0.5176, 0.5922,  ..., 0.5725, 0.5529, 0.5490],
+         [0.5176, 0.5647, 0.5216,  ..., 0.6078, 0.6000, 0.5765]]])
+CatsVsDogsDataset/Cat/10041.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1053.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10159.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10784.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10758.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10861.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10651.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10433.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10751.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10072.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10766.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10485.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10645.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10621.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1005.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1074.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10043.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10290.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10306.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10809.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10756.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10224.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10482.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10854.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10146.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10786.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10886.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10779.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10803.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10045.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10682.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1021.jpg
+RESIZED:  torch.Size([3, 50, 50])
+tensor([[[0.5451, 0.5490, 0.5569,  ..., 0.1255, 0.1412, 0.1765],
+         [0.5490, 0.5529, 0.5569,  ..., 0.1569, 0.1765, 0.2706],
+         [0.5412, 0.5451, 0.4902,  ..., 0.1686, 0.2549, 0.4000],
+         ...,
+         [0.5333, 0.5333, 0.5373,  ..., 0.5569, 0.5451, 0.5098],
+         [0.5608, 0.5647, 0.5725,  ..., 0.5804, 0.5725, 0.5608],
+         [0.5922, 0.5961, 0.6000,  ..., 0.5961, 0.5922, 0.5882]],
+
+        [[0.6039, 0.6078, 0.6157,  ..., 0.1725, 0.1882, 0.2235],
+         [0.6118, 0.6157, 0.6196,  ..., 0.2039, 0.2235, 0.3176],
+         [0.6157, 0.6196, 0.5686,  ..., 0.2275, 0.3137, 0.4549],
+         ...,
+         [0.6392, 0.6431, 0.6510,  ..., 0.6745, 0.6627, 0.6314],
+         [0.6784, 0.6863, 0.6980,  ..., 0.7098, 0.7020, 0.6941],
+         [0.7176, 0.7216, 0.7294,  ..., 0.7373, 0.7294, 0.7216]],
+
+        [[0.6118, 0.6196, 0.6275,  ..., 0.2157, 0.2275, 0.2588],
+         [0.6196, 0.6235, 0.6314,  ..., 0.2471, 0.2627, 0.3529],
+         [0.6275, 0.6314, 0.5882,  ..., 0.2627, 0.3412, 0.4863],
+         ...,
+         [0.6941, 0.6980, 0.7059,  ..., 0.7451, 0.7255, 0.6941],
+         [0.7451, 0.7490, 0.7608,  ..., 0.7922, 0.7804, 0.7686],
+         [0.7843, 0.7882, 0.7961,  ..., 0.8235, 0.8157, 0.8118]]])
+CatsVsDogsDataset/Cat/10819.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1014.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10460.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10464.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10489.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10648.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10887.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1048.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10633.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10335.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10565.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10488.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10192.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1023.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10219.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10472.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10114.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10252.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10083.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10451.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10658.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10584.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10050.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10170.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10430.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10686.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10283.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10774.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10748.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10840.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10102.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10550.jpg
+RESIZED:  torch.Size([3, 50, 50])
+tensor([[[0.2980, 0.3137, 0.3216,  ..., 0.1294, 0.1490, 0.1686],
+         [0.3020, 0.3098, 0.3216,  ..., 0.1412, 0.1529, 0.1686],
+         [0.3020, 0.3098, 0.3216,  ..., 0.1490, 0.1608, 0.1804],
+         ...,
+         [0.0627, 0.0706, 0.0706,  ..., 0.4235, 0.4314, 0.4902],
+         [0.0863, 0.1098, 0.1137,  ..., 0.4667, 0.4588, 0.4667],
+         [0.0941, 0.1176, 0.1216,  ..., 0.4549, 0.4431, 0.4471]],
+
+        [[0.4471, 0.4627, 0.4667,  ..., 0.2549, 0.2745, 0.2941],
+         [0.4510, 0.4588, 0.4627,  ..., 0.2667, 0.2784, 0.2980],
+         [0.4510, 0.4588, 0.4627,  ..., 0.2745, 0.2863, 0.3059],
+         ...,
+         [0.1137, 0.1216, 0.1098,  ..., 0.5373, 0.5255, 0.4706],
+         [0.1255, 0.1490, 0.1412,  ..., 0.4627, 0.4627, 0.4588],
+         [0.1255, 0.1490, 0.1529,  ..., 0.4588, 0.4471, 0.4392]],
+
+        [[0.4000, 0.4157, 0.4196,  ..., 0.3059, 0.3216, 0.3333],
+         [0.4039, 0.4118, 0.4157,  ..., 0.3176, 0.3255, 0.3373],
+         [0.4039, 0.4118, 0.4157,  ..., 0.3255, 0.3333, 0.3451],
+         ...,
+         [0.1059, 0.1255, 0.1255,  ..., 0.5098, 0.4902, 0.4353],
+         [0.1216, 0.1529, 0.1569,  ..., 0.4431, 0.4235, 0.4196],
+         [0.1255, 0.1529, 0.1569,  ..., 0.4235, 0.4118, 0.4039]]])
+CatsVsDogsDataset/Cat/10630.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1052.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10058.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10567.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10436.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10365.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10284.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10007.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10481.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10063.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10026.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10210.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10627.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10531.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10142.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1037.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10280.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1025.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10596.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10851.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10571.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10440.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10254.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10241.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10558.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1034.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10852.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10830.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10266.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10065.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10191.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10732.jpg
+RESIZED:  torch.Size([3, 50, 50])
+tensor([[[0.0431, 0.0549, 0.0549,  ..., 0.0196, 0.0353, 0.0392],
+         [0.0353, 0.0706, 0.1059,  ..., 0.0392, 0.0941, 0.1373],
+         [0.0510, 0.1294, 0.1804,  ..., 0.0549, 0.0980, 0.1098],
+         ...,
+         [0.5216, 0.5686, 0.5725,  ..., 0.6235, 0.6353, 0.6392],
+         [0.5490, 0.5412, 0.5412,  ..., 0.6196, 0.6275, 0.6157],
+         [0.5569, 0.5529, 0.5569,  ..., 0.6196, 0.5686, 0.5098]],
+
+        [[0.0510, 0.0627, 0.0667,  ..., 0.0275, 0.0314, 0.0275],
+         [0.0353, 0.0667, 0.1059,  ..., 0.0471, 0.0902, 0.1373],
+         [0.0510, 0.1216, 0.1647,  ..., 0.0549, 0.0980, 0.1137],
+         ...,
+         [0.4863, 0.5255, 0.5373,  ..., 0.5294, 0.5373, 0.5333],
+         [0.5137, 0.5098, 0.5020,  ..., 0.5176, 0.5137, 0.5020],
+         [0.5137, 0.5059, 0.5020,  ..., 0.4980, 0.4706, 0.4314]],
+
+        [[0.0510, 0.0627, 0.0627,  ..., 0.0235, 0.0235, 0.0235],
+         [0.0392, 0.0902, 0.1647,  ..., 0.0431, 0.0902, 0.1333],
+         [0.0588, 0.2039, 0.3137,  ..., 0.0549, 0.0980, 0.1176],
+         ...,
+         [0.4980, 0.5294, 0.5412,  ..., 0.5294, 0.5373, 0.5333],
+         [0.5216, 0.5137, 0.5098,  ..., 0.5176, 0.5176, 0.5059],
+         [0.5216, 0.5098, 0.5098,  ..., 0.5020, 0.4745, 0.4353]]])
+CatsVsDogsDataset/Cat/10845.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10322.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10439.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10349.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10768.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10076.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1006.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10798.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10669.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1035.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10626.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10368.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/102.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10418.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10301.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1015.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10807.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10298.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10380.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10634.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1007.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10208.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10225.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10402.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10073.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10412.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10617.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10556.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10456.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10249.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10611.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10811.jpg
+RESIZED:  torch.Size([3, 50, 50])
+tensor([[[0.6471, 0.6510, 0.6510,  ..., 0.3569, 0.3216, 0.3176],
+         [0.6353, 0.6549, 0.6549,  ..., 0.3529, 0.3294, 0.3294],
+         [0.6431, 0.6510, 0.6549,  ..., 0.3451, 0.3137, 0.3333],
+         ...,
+         [0.4314, 0.4471, 0.4549,  ..., 0.3961, 0.3765, 0.3843],
+         [0.4235, 0.4471, 0.4510,  ..., 0.3569, 0.3490, 0.3529],
+         [0.4353, 0.4471, 0.4588,  ..., 0.3490, 0.3216, 0.3137]],
+
+        [[0.6392, 0.6431, 0.6510,  ..., 0.4000, 0.3490, 0.3490],
+         [0.6353, 0.6471, 0.6510,  ..., 0.3843, 0.3451, 0.3490],
+         [0.6392, 0.6471, 0.6510,  ..., 0.3725, 0.3373, 0.3490],
+         ...,
+         [0.3922, 0.3961, 0.3922,  ..., 0.4118, 0.4039, 0.3961],
+         [0.3882, 0.3922, 0.3843,  ..., 0.3725, 0.3686, 0.3686],
+         [0.3882, 0.3843, 0.3882,  ..., 0.3647, 0.3373, 0.3137]],
+
+        [[0.6196, 0.6392, 0.6392,  ..., 0.4078, 0.3608, 0.3529],
+         [0.6235, 0.6392, 0.6431,  ..., 0.3922, 0.3647, 0.3608],
+         [0.6314, 0.6431, 0.6510,  ..., 0.3804, 0.3490, 0.3647],
+         ...,
+         [0.3882, 0.3882, 0.3961,  ..., 0.4510, 0.4431, 0.4392],
+         [0.3725, 0.3882, 0.3843,  ..., 0.4078, 0.4039, 0.4118],
+         [0.3804, 0.3765, 0.3843,  ..., 0.4000, 0.3686, 0.3490]]])
+CatsVsDogsDataset/Cat/10172.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10195.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10575.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10429.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10214.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10523.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10400.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10663.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10273.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10704.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10051.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1042.jpg
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/

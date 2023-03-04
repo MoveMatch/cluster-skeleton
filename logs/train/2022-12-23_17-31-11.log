@@ -1,0 +1,66 @@
+here
+Namespace(config_path='./config/train_config.yml', s3_bucket='movematch', prefix='CatsVsDogsDataset')
+CatsVsDogsDataset/Cat/10860.jpg
+(458, 500, 3)
+CatsVsDogsDataset/Cat/10480.jpg
+(500, 339, 3)
+CatsVsDogsDataset/Cat/10249.jpg
+(500, 379, 3)
+CatsVsDogsDataset/Cat/10105.jpg
+(282, 500, 3)
+CatsVsDogsDataset/Cat/10187.jpg
+(223, 300, 3)
+CatsVsDogsDataset/Cat/10866.jpg
+(391, 500, 3)
+CatsVsDogsDataset/Cat/10398.jpg
+(270, 356, 3)
+CatsVsDogsDataset/Cat/10891.jpg
+(375, 500, 3)
+CatsVsDogsDataset/Cat/10664.jpg
+(418, 500, 3)
+CatsVsDogsDataset/Cat/10547.jpg
+(369, 500, 3)
+CatsVsDogsDataset/Cat/10363.jpg
+(400, 500, 3)
+CatsVsDogsDataset/Cat/10176.jpg
+(375, 500, 3)
+CatsVsDogsDataset/Cat/10487.jpg
+(344, 370, 3)
+CatsVsDogsDataset/Cat/10099.jpg
+(375, 500, 3)
+CatsVsDogsDataset/Cat/10822.jpg
+(375, 500, 3)
+CatsVsDogsDataset/Cat/10106.jpg
+(375, 500, 3)
+CatsVsDogsDataset/Cat/10788.jpg
+(500, 359, 3)
+CatsVsDogsDataset/Cat/10644.jpg
+(259, 250, 3)
+CatsVsDogsDataset/Cat/10471.jpg
+(150, 200, 3)
+CatsVsDogsDataset/Cat/10526.jpg
+(126, 150, 3)
+CatsVsDogsDataset/Cat/10764.jpg
+(375, 500, 3)
+CatsVsDogsDataset/Cat/10046.jpg
+(336, 374, 3)
+CatsVsDogsDataset/Cat/10792.jpg
+(375, 500, 3)
+CatsVsDogsDataset/Cat/10865.jpg
+(480, 423, 3)
+CatsVsDogsDataset/Cat/10507.jpg
+(500, 294, 3)
+CatsVsDogsDataset/Cat/10173.jpg
+(310, 432, 3)
+CatsVsDogsDataset/Cat/10389.jpg
+(375, 500, 3)
+CatsVsDogsDataset/Cat/10777.jpg
+(475, 500, 3)
+CatsVsDogsDataset/Cat/10247.jpg
+(500, 375, 3)
+CatsVsDogsDataset/Cat/10273.jpg
+(326, 351, 3)
+CatsVsDogsDataset/Cat/10691.jpg
+(466, 350, 3)
+CatsVsDogsDataset/Cat/10088.jpg
+(500, 374, 3)

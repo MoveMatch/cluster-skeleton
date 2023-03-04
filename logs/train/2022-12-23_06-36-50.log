@@ -1,0 +1,3 @@
+here
+Namespace(config_path='./config/train_config.yml', s3_bucket='movematch', prefix='CatsVsDogsDataset')
+<bound method S3Dataset.get_filenames of <utils.preprocessing.S3Dataset object at 0x7f3370b52a30>>

@@ -1,0 +1,4 @@
+here
+Namespace(config_path='./config/train_config.yml', s3_bucket='movematch', prefix='CatsVsDogsDataset')
+CatsVsDogsDataset/Cat/10790.jpg
+(375, 500, 3)

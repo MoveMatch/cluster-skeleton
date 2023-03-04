@@ -1,0 +1,1931 @@
+here
+Namespace(config_path='./config/train_config.yml', s3_bucket='movematch', prefix='CatsVsDogsDataset')
+movematch
+CatsVsDogsDataset
+24991
+CatsVsDogsDataset/Cat/5190.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f21f0>
+(439, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/5953.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4460>
+(500, 359, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/935.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4580>
+(347, 376, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/203.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4130>
+(418, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/5153.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4d60>
+(300, 351, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/1529.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4460>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10710.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b49d0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/9016.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4850>
+(180, 200, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/2457.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4af0>
+(500, 329, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/6423.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4430>
+(333, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/7846.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4cd0>
+(150, 200, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/2167.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b47c0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/12267.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4580>
+(319, 480, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/4284.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4550>
+(500, 376, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/8229.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4940>
+(443, 476, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/4560.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b46a0>
+(330, 396, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/12044.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4fd0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/6372.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4400>
+(500, 449, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/8533.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2d30>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/6814.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699370>
+(350, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/3445.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699b20>
+(151, 200, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/11511.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4ee0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/11934.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4c70>
+(288, 384, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/6552.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b46a0>
+(301, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/8414.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6993d0>
+(500, 305, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/6521.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699910>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/1579.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699370>
+(246, 328, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/7651.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4910>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/9686.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4eb0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/2226.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4c70>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1487.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699850>
+(332, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/8294.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699730>
+(437, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/5052.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4b20>
+(336, 350, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/11493.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4e50>
+(409, 249, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/11164.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b47c0>
+(381, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/10274.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4f40>
+(88, 133, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/6588.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4430>
+(500, 334, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/4207.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4bb0>
+(500, 312, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/2117.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4af0>
+(500, 401, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/6962.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4790>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/8594.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b48e0>
+(414, 313, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/5990.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4670>
+(168, 180, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/7021.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4070>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/11795.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4250>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/3800.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b44c0>
+(240, 320, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/10459.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b41c0>
+(500, 489, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1442.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b40d0>
+(348, 400, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/9140.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4490>
+(500, 347, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/12249.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4c10>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/3842.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4ac0>
+(300, 202, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1775.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699b20>
+(421, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/5457.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6999d0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/9326.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699370>
+(433, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/7936.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4fa0>
+(302, 272, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/8014.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4d00>
+(347, 234, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/8437.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4550>
+(207, 177, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/194.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699c70>
+(498, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/478.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6999d0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/1401.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699700>
+(220, 306, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/9067.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4ac0>
+(500, 391, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/8227.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4a00>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/9711.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6997f0>
+(450, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/11429.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4490>
+(500, 465, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/11209.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699b20>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1710.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4f70>
+(319, 279, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/6433.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699730>
+(500, 353, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/3003.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4a00>
+(398, 212, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/1319.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699910>
+(352, 335, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/10989.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4910>
+(123, 94, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/7967.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b41c0>
+(334, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/12354.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4ca0>
+(314, 308, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/9919.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6998b0>
+(500, 375, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1370.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699910>
+(398, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/12460.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4d00>
+(500, 333, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/9116.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4a00>
+(288, 448, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/10082.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699c70>
+(500, 382, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10611.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699a00>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/2887.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4f10>
+(362, 393, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/4590.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4fa0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/6615.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699a30>
+(448, 336, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/5429.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6998b0>
+(500, 377, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10599.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b41c0>
+(270, 360, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/7502.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4910>
+(500, 389, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10334.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6993d0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/12250.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699c70>
+(500, 480, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/4874.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4d00>
+(160, 240, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/5703.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b40d0>
+(300, 350, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/7834.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699700>
+(257, 240, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/2013.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699a30>
+(240, 240, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/11089.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4c10>
+(500, 375, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/742.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4910>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/8034.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699910>
+(368, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/9993.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2d60>
+(500, 393, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/7849.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614fd0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/7937.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2c40>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1841.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2940>
+(236, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10234.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2dc0>
+(327, 415, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/9371.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6999d0>
+(479, 324, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/6113.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699940>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10585.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb317610>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/3241.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2d60>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1322.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699b20>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/11254.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2940>
+(500, 468, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/9152.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699a00>
+(377, 336, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/845.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2a90>
+(229, 240, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/12267.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6997f0>
+(319, 480, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/6254.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f27f0>
+(213, 240, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/2205.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699a60>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/1903.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2d60>
+(352, 294, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/4704.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699a30>
+(400, 466, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/5111.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2190>
+(414, 480, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/2289.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6999a0>
+(234, 350, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/5820.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f27f0>
+(116, 167, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10958.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2220>
+(500, 238, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/4028.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb16db50>
+(390, 460, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/7007.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699910>
+(500, 499, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/4857.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699850>
+(500, 445, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/6757.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2a00>
+(500, 273, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/167.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb16dc10>
+(360, 480, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1166.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699a00>
+(374, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/4122.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6996a0>
+(264, 300, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1572.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2940>
+(297, 396, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/373.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb16db50>
+(233, 350, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/12159.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6999a0>
+(372, 456, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/4437.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699b20>
+(374, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/12117.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2c40>
+(500, 293, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/5829.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb16dc10>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/967.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699940>
+(215, 320, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/118.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2220>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/11388.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699c70>
+(500, 470, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/7861.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2220>
+(454, 499, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/3803.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2dc0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/7959.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2c40>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/1883.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6999a0>
+(300, 400, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/4063.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699730>
+(241, 400, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/528.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb16d280>
+(360, 343, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1456.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb317e50>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/12293.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6993d0>
+(500, 388, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/9021.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6999a0>
+(252, 216, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/3288.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6996a0>
+(187, 250, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/11144.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614fa0>
+(500, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/4411.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699a60>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/3519.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699a00>
+(244, 200, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/7926.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4c10>
+(95, 100, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/8412.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eafd0>
+(310, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/10406.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eac70>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/4447.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4910>
+(500, 354, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/999.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6998b0>
+(500, 484, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/9453.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6996a0>
+(419, 335, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/2135.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb16db50>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/9118.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614a30>
+(374, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/11753.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614970>
+(183, 200, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/11462.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614b80>
+(426, 454, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/9487.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614e80>
+(116, 146, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/9000.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614dc0>
+(374, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/12042.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614f10>
+(262, 350, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/9251.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614f70>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/9590.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614a60>
+(500, 351, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/12477.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614a90>
+(407, 432, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1619.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614550>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10430.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614820>
+(260, 350, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/3489.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6149a0>
+(497, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/9842.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6144f0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/3374.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614610>
+(500, 461, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/1791.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6140d0>
+(288, 311, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/4539.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614d60>
+(209, 314, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/9154.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6145b0>
+(330, 341, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/2972.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6999d0>
+(264, 250, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/9621.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2dc0>
+(398, 350, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/3471.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2d60>
+(500, 358, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/2208.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699370>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/11082.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614d60>
+(240, 167, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/4241.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6141c0>
+(400, 317, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/3465.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f27f0>
+(467, 400, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/9279.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699370>
+(238, 205, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/719.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614ee0>
+(300, 400, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/4658.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614850>
+(402, 350, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/940.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2940>
+(247, 301, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/4205.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699370>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/9606.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6141f0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/5462.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614160>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/7805.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2220>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/9752.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699370>
+(378, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/8814.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614370>
+(486, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/9213.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6140a0>
+(360, 319, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/8052.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699b20>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/5959.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6140d0>
+(388, 331, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/7970.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6145b0>
+(458, 371, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/7664.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2940>
+(333, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10204.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2a90>
+(240, 320, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/5157.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699b20>
+(288, 288, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/6589.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699940>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/236.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2d00>
+(450, 338, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/2271.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614850>
+(500, 285, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/4249.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614460>
+(465, 441, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/2055.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614070>
+(162, 252, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/2451.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2190>
+(500, 457, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/11032.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2d60>
+(240, 320, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/7078.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699850>
+(374, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/2104.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4af0>
+(334, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/8999.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6996a0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/7675.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699940>
+(280, 400, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/5513.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6998b0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/4615.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699a60>
+(240, 240, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/4805.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6143a0>
+(261, 235, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/5340.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614100>
+(333, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/1902.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6996a0>
+(240, 196, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/9196.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614160>
+(173, 193, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/4788.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4be0>
+(334, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10580.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614460>
+(338, 450, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/12311.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6140a0>
+(500, 333, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/4446.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699c70>
+(172, 318, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/7404.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699a00>
+(418, 423, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/6246.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6996a0>
+(270, 360, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/2521.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6145b0>
+(433, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/4511.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614b50>
+(402, 360, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/1976.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614730>
+(377, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/9370.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699850>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/916.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699a00>
+(332, 450, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/4768.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699370>
+(150, 142, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/2538.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6144c0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/3848.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614370>
+(419, 328, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/12495.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614160>
+(377, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/6717.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6993d0>
+(300, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/11192.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699a00>
+(500, 397, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/845.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614160>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/11665.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2d30>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/2990.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6140d0>
+(288, 428, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/2000.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6998b0>
+(500, 459, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/8425.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9040>
+(326, 368, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/7114.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6996a0>
+(500, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/5534.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6148b0>
+(36, 60, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/4220.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6993d0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/2783.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6144c0>
+(204, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/5841.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6996a0>
+(283, 454, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/7947.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614ee0>
+(427, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/8454.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6993d0>
+(500, 377, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/5922.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614850>
+(240, 320, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/6945.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6996a0>
+(388, 283, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/10957.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6144c0>
+(363, 471, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1385.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699370>
+(500, 347, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/623.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6140a0>
+(493, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/2691.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699a60>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/3556.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6140d0>
+(325, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/9760.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6997f0>
+(371, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/10877.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614370>
+(237, 299, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/3069.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2220>
+(225, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/8237.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb3172e0>
+(404, 252, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/10124.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb16da00>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/4012.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614850>
+(267, 200, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/4197.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6997f0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/9954.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699850>
+(500, 225, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/2584.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb3171c0>
+(450, 448, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/4739.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb3172e0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/3189.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6997f0>
+(464, 460, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/6093.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4700>
+(500, 496, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/2656.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb16d760>
+(226, 336, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/5358.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2d00>
+(447, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/3117.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4700>
+(470, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/2715.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb40f7c0>
+(233, 350, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/8304.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb16da00>
+(500, 375, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/12219.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e90a0>
+(500, 490, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/7551.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4700>
+(289, 384, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/12320.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb40f640>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/2516.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb16d910>
+(203, 293, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/1117.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614370>
+(225, 300, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/932.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4700>
+(223, 320, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/914.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614ee0>
+(395, 372, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/8823.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb16d8e0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/6603.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2c40>
+(333, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/7444.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699a00>
+(240, 320, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/3187.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6997f0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/11463.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb317f10>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/11252.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614ee0>
+(500, 382, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/7653.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4130>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/7025.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9040>
+(251, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/7618.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e90d0>
+(500, 346, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/62.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6140d0>
+(378, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10057.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb16d760>
+(500, 332, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/5814.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb16da00>
+(340, 216, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/983.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb317f70>
+(200, 147, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/1844.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ea850>
+(500, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/4689.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ea790>
+(297, 274, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/12416.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eaa30>
+(500, 388, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/3322.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ea7f0>
+(137, 256, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/11155.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ea910>
+(458, 350, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/11280.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eaeb0>
+(300, 400, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/4014.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ea9d0>
+(233, 173, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/11079.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eadc0>
+(464, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/4320.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ea250>
+(270, 260, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/8672.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ea490>
+(268, 243, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/892.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ea070>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/9699.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eafd0>
+(377, 347, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/12062.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eacd0>
+(176, 168, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/7501.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ea4c0>
+(500, 349, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/2448.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eab80>
+(469, 374, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/191.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ea280>
+(500, 361, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/5744.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ead00>
+(500, 490, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/6899.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ea580>
+(387, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/12369.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4bb0>
+(500, 456, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/523.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b42e0>
+(448, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/372.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b43d0>
+(377, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/6219.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4f70>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/6040.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4fa0>
+(240, 320, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/11985.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b41c0>
+(480, 336, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/5787.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4ca0>
+(262, 350, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/43.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4c10>
+(250, 375, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/492.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4910>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/12041.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4a00>
+(500, 420, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/7514.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4220>
+(159, 201, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/790.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ea1c0>
+(500, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/5231.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eab20>
+(441, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/4154.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ea4c0>
+(299, 343, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/8755.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eab20>
+(237, 200, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/11440.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eadc0>
+(448, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/1579.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ea9a0>
+(246, 328, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/8166.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eab50>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/7446.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ea340>
+(371, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/7206.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eab50>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10244.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ea9a0>
+(360, 234, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/12453.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4f10>
+(420, 432, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/4077.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eaa90>
+(409, 336, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/9537.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eab80>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/3897.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ea100>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/6993.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eab80>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10792.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eaa90>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/5767.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2dc0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/10912.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eadc0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/75.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eacd0>
+(397, 495, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/6501.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ea040>
+(389, 456, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/8541.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eacd0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/6163.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eadc0>
+(320, 317, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/8214.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b41f0>
+(500, 464, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/9393.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eaac0>
+(275, 275, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/9517.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eac40>
+(159, 82, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1767.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eaac0>
+(499, 476, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/7690.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eac40>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1249.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ea9a0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/9300.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eaeb0>
+(362, 389, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/9314.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ea850>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/5973.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2d60>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1254.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ea340>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/2859.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4c10>
+(381, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/12101.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eab50>
+(500, 326, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/255.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2190>
+(500, 375, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/8062.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ea130>
+(500, 472, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/2920.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4f10>
+(360, 480, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/8989.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eacd0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/11696.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2f70>
+(374, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/3587.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ea9a0>
+(240, 320, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/2186.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4220>
+(292, 389, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/7935.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ea100>
+(467, 350, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/11060.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2dc0>
+(435, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/2126.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ea760>
+(344, 498, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/2628.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ea850>
+(189, 200, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/4646.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eaee0>
+(333, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/4083.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6147c0>
+(347, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/705.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb16dd00>
+(306, 363, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/5158.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ea340>
+(500, 484, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/7334.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eac40>
+(500, 430, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/4295.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eaa60>
+(454, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/12416.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2693d0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/7631.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eac40>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10944.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ea250>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/3368.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ea220>
+(372, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/4190.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb16dbb0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/5839.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ea250>
+(135, 125, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/8978.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ea880>
+(300, 400, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/7466.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ea760>
+(253, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/164.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2692b0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/11450.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ea880>
+(240, 320, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/9048.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eacd0>
+(311, 231, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/2798.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eaa60>
+(500, 435, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/11474.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb16deb0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/9525.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ea340>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/4335.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eadc0>
+(292, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/7596.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ea130>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/3834.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0ea340>
+(457, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/7738.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2f70>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/6485.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eaee0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/5677.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0eaac0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/7685.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9eb0>
+(138, 185, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1753.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9a00>
+(162, 243, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/8484.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9940>
+(272, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/5127.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e98b0>
+(188, 179, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/7171.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9df0>
+(184, 108, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/6301.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e99a0>
+(100, 102, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/11171.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9f10>
+(477, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/2843.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9a30>
+(500, 435, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/2106.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9e20>
+(416, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/9507.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9af0>
+(499, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/6895.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9be0>
+(299, 283, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/3143.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9c10>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/6128.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9d00>
+(251, 360, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/8490.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9ac0>
+(500, 333, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/9616.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9130>
+(500, 388, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/2983.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9640>
+(334, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/5351.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9ac0>
+(149, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/9509.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6999a0>
+(260, 254, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/8605.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb614af0>
+(500, 428, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/4964.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699520>
+(200, 184, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/2100.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699910>
+(334, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/6402.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6996a0>
+(33, 60, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/6006.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699a00>
+(500, 375, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/8657.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e94c0>
+(241, 450, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/5559.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9580>
+(229, 300, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/2901.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9dc0>
+(150, 150, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/4803.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699400>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/4623.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6999a0>
+(425, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/5251.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6999d0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/7680.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9640>
+(500, 480, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/2670.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9400>
+(482, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/8273.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9070>
+(333, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/12049.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699850>
+(500, 427, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/2612.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699940>
+(384, 288, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/2419.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9040>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/8137.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9160>
+(336, 448, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/11093.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699550>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/9197.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6999d0>
+(290, 320, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/5434.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699790>
+(447, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/3643.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9160>
+(292, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/12174.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9340>
+(165, 275, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1507.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9d60>
+(124, 144, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/5315.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699700>
+(292, 360, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/3592.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6993d0>
+(300, 257, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/7415.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699a00>
+(313, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/6810.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9700>
+(337, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/8576.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9d60>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/2765.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9160>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/8099.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699910>
+(480, 442, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10455.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6996d0>
+(500, 469, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/7799.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699400>
+(332, 460, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/5024.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9040>
+(298, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/7846.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9160>
+(150, 200, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/8549.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9700>
+(333, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/12028.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb16d8e0>
+(465, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/4017.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9160>
+(500, 422, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/7335.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9040>
+(443, 400, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1460.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6996a0>
+(376, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/7352.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699910>
+(229, 305, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/2515.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699520>
+(500, 437, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/10096.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb5f2e50>
+(327, 400, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/5884.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699730>
+(175, 234, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/523.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9280>
+(335, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/964.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9040>
+(288, 199, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/1340.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699a00>
+(500, 304, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/3340.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699730>
+(425, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10342.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699a60>
+(428, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/12421.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9700>
+(364, 205, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/9433.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9040>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/395.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9700>
+(383, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/3784.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6994f0>
+(310, 436, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/7930.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699730>
+(196, 192, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/5717.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6999d0>
+(187, 205, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/4791.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9100>
+(332, 443, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/6142.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9d60>
+(459, 461, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/1614.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9100>
+(200, 150, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/9455.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6996a0>
+(233, 458, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/4469.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699730>
+(262, 217, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/7460.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699370>
+(500, 300, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/2507.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb2b4e50>
+(394, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/559.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699520>
+(288, 335, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/49.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699a00>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/631.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6144c0>
+(280, 300, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/11545.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699790>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/7956.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6994f0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/11428.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9ac0>
+(448, 330, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/9668.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9700>
+(455, 300, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/3834.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9040>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/2086.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6999a0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/5724.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6996a0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/3317.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699910>
+(471, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/12445.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9ac0>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/2246.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9d60>
+(500, 376, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/12055.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9160>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/3168.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6996d0>
+(467, 411, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/4591.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6996a0>
+(336, 242, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/2958.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb699700>
+(180, 141, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/2610.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb6996d0>
+(500, 375, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/5579.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9c10>
+(185, 161, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/2304.jpg
+<botocore.response.StreamingBody object at 0x7fd7eb0e9d60>
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Dog/Thumbs.db
+<botocore.response.StreamingBody object at 0x7fd7eb6143a0>

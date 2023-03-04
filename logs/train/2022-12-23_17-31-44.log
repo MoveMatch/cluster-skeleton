@@ -1,0 +1,98 @@
+here
+Namespace(config_path='./config/train_config.yml', s3_bucket='movematch', prefix='CatsVsDogsDataset')
+CatsVsDogsDataset/Cat/10655.jpg
+(469, 470, 3)
+RESIZED:  torch.Size([3, 50, 50])
+CatsVsDogsDataset/Cat/10287.jpg
+(413, 500, 3)
+RESIZED:  torch.Size([3, 50, 60])
+CatsVsDogsDataset/Cat/10659.jpg
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 66])
+CatsVsDogsDataset/Cat/10045.jpg
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 66])
+CatsVsDogsDataset/Cat/10388.jpg
+(230, 164, 3)
+RESIZED:  torch.Size([3, 70, 50])
+CatsVsDogsDataset/Cat/1011.jpg
+(274, 500, 3)
+RESIZED:  torch.Size([3, 50, 91])
+CatsVsDogsDataset/Cat/10498.jpg
+(400, 300, 3)
+RESIZED:  torch.Size([3, 66, 50])
+CatsVsDogsDataset/Cat/10315.jpg
+(262, 350, 3)
+RESIZED:  torch.Size([3, 50, 66])
+CatsVsDogsDataset/Cat/10098.jpg
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 66])
+CatsVsDogsDataset/Cat/10887.jpg
+(500, 367, 3)
+RESIZED:  torch.Size([3, 68, 50])
+CatsVsDogsDataset/Cat/10713.jpg
+(438, 350, 3)
+RESIZED:  torch.Size([3, 62, 50])
+CatsVsDogsDataset/Cat/10421.jpg
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 66])
+CatsVsDogsDataset/Cat/10193.jpg
+(313, 500, 3)
+RESIZED:  torch.Size([3, 50, 79])
+CatsVsDogsDataset/Cat/10621.jpg
+(500, 375, 3)
+RESIZED:  torch.Size([3, 66, 50])
+CatsVsDogsDataset/Cat/10293.jpg
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 66])
+CatsVsDogsDataset/Cat/10598.jpg
+(455, 500, 3)
+RESIZED:  torch.Size([3, 50, 54])
+CatsVsDogsDataset/Cat/10770.jpg
+(356, 420, 3)
+RESIZED:  torch.Size([3, 50, 58])
+CatsVsDogsDataset/Cat/10837.jpg
+(452, 500, 3)
+RESIZED:  torch.Size([3, 50, 55])
+CatsVsDogsDataset/Cat/10869.jpg
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 66])
+CatsVsDogsDataset/Cat/10167.jpg
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 66])
+CatsVsDogsDataset/Cat/10536.jpg
+(500, 375, 3)
+RESIZED:  torch.Size([3, 66, 50])
+CatsVsDogsDataset/Cat/10206.jpg
+(500, 258, 3)
+RESIZED:  torch.Size([3, 96, 50])
+CatsVsDogsDataset/Cat/10145.jpg
+(376, 500, 3)
+RESIZED:  torch.Size([3, 50, 66])
+CatsVsDogsDataset/Cat/10629.jpg
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 66])
+CatsVsDogsDataset/Cat/10850.jpg
+(333, 289, 3)
+RESIZED:  torch.Size([3, 57, 50])
+CatsVsDogsDataset/Cat/10370.jpg
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 66])
+CatsVsDogsDataset/Cat/10649.jpg
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 66])
+CatsVsDogsDataset/Cat/10731.jpg
+(257, 500, 3)
+RESIZED:  torch.Size([3, 50, 97])
+CatsVsDogsDataset/Cat/10596.jpg
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 66])
+CatsVsDogsDataset/Cat/1031.jpg
+(375, 500, 3)
+RESIZED:  torch.Size([3, 50, 66])
+CatsVsDogsDataset/Cat/10512.jpg
+(404, 500, 3)
+RESIZED:  torch.Size([3, 50, 61])
+CatsVsDogsDataset/Cat/10779.jpg
+(401, 500, 3)
+RESIZED:  torch.Size([3, 50, 62])

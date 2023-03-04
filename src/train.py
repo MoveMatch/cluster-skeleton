@@ -2,6 +2,13 @@ import yaml
 import argparse
 import torch
 import boto3
+from utils.preprocessing import S3Dataset
+from torch.utils.data import Dataset, DataLoader
+import cv2
+from boto.s3.connection import S3Connection
+
+
+print("here")
 
 # example setups
 
@@ -9,17 +16,31 @@ import boto3
 parser = argparse.ArgumentParser()
 parser.add_argument("--config_path", required=True, help="Path to the model config file")
 parser.add_argument('--s3-bucket', required=True, help='Name of the S3 bucket where the data is stored')
-parser.add_argument('--s3-prefix', required=True, help='Prefix of the S3 objects where the data is stored')
+parser.add_argument('--prefix', required=True, help="Sub-Directory within movematch bucket")
 args = parser.parse_args()
 
 # Load the model config file
 with open(args.config_path, "r") as f:
     config = yaml.safe_load(f)
 
+print(args)
 # Get the data from s3 given the bucket and prefix
-s3 = boto3.resource('s3')
+s3 = boto3.client('s3')
+dataset = S3Dataset(s3, args.s3_bucket, args.prefix)
 
+data_loader = DataLoader(dataset, batch_size=32, shuffle=True)
+example = next(iter(data_loader))[0]
 
+for test_images, test_labels in data_loader:  
+    sample_image = test_images[0]
+    #print(sample_image)
+    sample_label = test_labels[0]
+
+print("HERE")
+
+for batch in data_loader:
+    images, labels = batch
+    print(labels)
 
 # Extract the model configuration parameters
 hidden_units = config["model"]["hidden_units"]
@@ -36,12 +57,7 @@ validation_split = config["training"]["validation_split"]
 # Extract the inference configuration parameters
 threshold = config["inference"]["threshold"]
 
-# Load the dataset
-(x_train, y_train), (x_test, y_test) = torch.load("mnist.pt")
 
-# Preprocess the data
-x_train = x_train.float() / 255.0
-x_test = x_test.float() / 255.0
 
 # Build the model
 model = torch.nn.Sequential(
