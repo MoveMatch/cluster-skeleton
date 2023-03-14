@@ -6,9 +6,18 @@ This branch is an example of how the training pipeline should work. It contains 
 
 Make sure you have aws cli installed and configured. Smoke test: run aws s3 ls and see if you get a list of buckets. For help with configuring aws cli, message in the discord or check confluence docs.
 
+You will need a .env.local file with the parameters:
+
+```bash
+S3_ACCESS_KEY_ID=""
+S3_SECRET_ACCESS_KEY=""
+```
+
 Also make sure you have a virtual environment or conda environment with the packages in requirements.txt installed.
 
 You may require to brew install s3cmd.
+
+
 
 ## Usage
 
@@ -36,6 +45,8 @@ Changes to model architecture can be made in the src/model.py file
 Changes to training loop can be made in the src/train.py file
 
 Changes to the s3 dataloader can be made in the src/dataloader.py file
+
+
 
 
 ## License
