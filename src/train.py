@@ -6,41 +6,48 @@ from utils.preprocessing import S3Dataset
 from torch.utils.data import Dataset, DataLoader
 import cv2
 from boto.s3.connection import S3Connection
-
-
-print("here")
-
-# example setups
+from dataloader import MotionMistakeDataset
+from dotenv import load_dotenv
+import os
 
 # Parse the command-line arguments
 parser = argparse.ArgumentParser()
 parser.add_argument("--config_path", required=True, help="Path to the model config file")
-parser.add_argument('--s3-bucket', required=True, help='Name of the S3 bucket where the data is stored')
+parser.add_argument('--s3_bucket', required=True, help='Name of the S3 bucket where the data is stored')
 parser.add_argument('--prefix', required=True, help="Sub-Directory within movematch bucket")
 args = parser.parse_args()
+
+# setups
+load_dotenv()
+s3_access_key_id = os.getenv("S3_ACCESS_KEY_ID")
+s3_secret_access_key = os.getenv("S3_SECRET_ACCESS_KEY")
 
 # Load the model config file
 with open(args.config_path, "r") as f:
     config = yaml.safe_load(f)
 
-print(args)
-# Get the data from s3 given the bucket and prefix
-s3 = boto3.client('s3')
-dataset = S3Dataset(s3, args.s3_bucket, args.prefix)
+dataset = MotionMistakeDataset(
+  f"pipe:aws s3 cp --quiet s3://{args.s3_bucket}/{args.prefix}/0.tar -", mistake_horizon=20
+)
 
-data_loader = DataLoader(dataset, batch_size=32, shuffle=True)
-example = next(iter(data_loader))[0]
+dataloader = DataLoader(
+    dataset,
+    batch_size=32,
+    num_workers=0,
+    pin_memory=True
+)
 
-for test_images, test_labels in data_loader:  
-    sample_image = test_images[0]
-    #print(sample_image)
-    sample_label = test_labels[0]
+# Make sure the data is loaded correctly
+print(dataloader)
+dataiter = iter(dataloader)
+batch = dataiter.next()
+print(batch)
 
-print("HERE")
+sample = batch.keys()
+print(sample)
+print(batch['sentences'])
 
-for batch in data_loader:
-    images, labels = batch
-    print(labels)
+
 
 # Extract the model configuration parameters
 hidden_units = config["model"]["hidden_units"]
@@ -56,7 +63,6 @@ validation_split = config["training"]["validation_split"]
 
 # Extract the inference configuration parameters
 threshold = config["inference"]["threshold"]
-
 
 
 # Build the model
@@ -88,7 +94,7 @@ for epoch in range(epochs):
         logits = model(x_test)
         test_loss = loss_fn(logits, y_test)
         test_acc = (logits.argmax(dim=-1) == y_test).float().mean()
-        print(f"Epoch {epoch+1} - Test loss: {test_loss:.3f} - Test accuracy: {test_acc:.3f}")
+        #print(f"Epoch {epoch+1} - Test loss: {test_loss:.3f} - Test accuracy: {test_acc:.3f}")
 
 # Save the model
 torch.save(model.state_dict(), "model.pt")
